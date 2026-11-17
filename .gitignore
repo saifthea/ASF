@@ -1,0 +1,7 @@
+node_modules/
+Reference-Tools/
+*.zip
+.DS_Store
+next/
+*.log
+.env.local
